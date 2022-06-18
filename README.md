@@ -1,4 +1,4 @@
-# Project tugas_akhir App E-Book.id [KELOMPOK PMOB]
+# Project App E-Book.id [KELOMPOK PMOB]
 
 **NOTE :**\
 Before downloading this file, make sure you create an additional folder with the name "**tugas_akhir**" and then move it.
