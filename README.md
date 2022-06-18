@@ -3,7 +3,7 @@
 **NOTE :**\
 Before downloading this file, make sure you create an additional folder with the name "**tugas_akhir**" and then move it.
 
-Link apk download :\
+**Link apk download :**\
 https://drive.google.com/file/d/1yhULlFoKhmczGaltga1bp0UxDQzgZ1Eo/view?usp=sharing
 
 ## Screenshoot Output App
