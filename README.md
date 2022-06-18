@@ -4,7 +4,7 @@
 BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
 
 link apk download :
-https://drive.google.com/file/d/1GmV2jSArAzxdShkVPfhwqK3DsST5Qwpd/view?usp=sharing
+https://drive.google.com/file/d/1yhULlFoKhmczGaltga1bp0UxDQzgZ1Eo/view?usp=sharing
 
 ## GIF & Screenshoot
 
