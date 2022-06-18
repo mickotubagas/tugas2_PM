@@ -8,12 +8,8 @@ https://drive.google.com/file/d/1yhULlFoKhmczGaltga1bp0UxDQzgZ1Eo/view?usp=shari
 
 ## Screenshoot Output App
 
-![panganmarketplace](https://user-images.githubusercontent.com/54829600/168479216-53c7447a-772e-42df-9ca5-c7a0e83fcc48.gif)
-![ss_app_panganmarketplace1](https://user-images.githubusercontent.com/54829600/168479192-0c29a274-e724-4ba0-bfa6-dd70ca720e39.jpg)
-![ss_app_panganmarketplace2](https://user-images.githubusercontent.com/54829600/168479204-33474000-98fd-4d0c-a5a1-f368bd2b37f2.jpg)
-![ss_app_panganmarketplace3](https://user-images.githubusercontent.com/54829600/168479202-62738725-956c-48e2-b232-e57a5b86a5b0.jpg)
-![ss_app_panganmarketplace4](https://user-images.githubusercontent.com/54829600/168479201-682787bf-374d-4668-bd87-f02d01ae5343.jpg)
-![ss_app_panganmarketplace5](https://user-images.githubusercontent.com/54829600/168479200-3bffff05-8944-4026-8a21-7f42361439ec.jpg)
-![ss_app_panganmarketplace6](https://user-images.githubusercontent.com/54829600/168479198-2f55da5d-d250-4555-85f0-04094545f57b.jpg)
-![ss_app_panganmarketplace7](https://user-images.githubusercontent.com/54829600/168479196-5933c1c1-886d-4c67-ad51-b0d08434a768.jpg)
-![ss_app_panganmarketplace8](https://user-images.githubusercontent.com/54829600/168479194-b05f56be-0f70-4457-a477-ddfac371c4c7.jpg)
+![1](https://user-images.githubusercontent.com/54829600/174437006-20f1f6ab-d2ca-408d-b571-afc0d8eb6971.png)
+![2](https://user-images.githubusercontent.com/54829600/174437010-70b89b31-92df-4f42-b200-39ee375ce117.png)
+![3](https://user-images.githubusercontent.com/54829600/174437013-e06ba7df-e5eb-46f5-a598-5db41dcc39a1.png)
+![4](https://user-images.githubusercontent.com/54829600/174437018-366cb460-50a7-4d8c-b0b0-ca0843cef0bf.png)
+![5](https://user-images.githubusercontent.com/54829600/174437020-aa6fd575-63e5-431a-bb24-826def1781ac.png)
