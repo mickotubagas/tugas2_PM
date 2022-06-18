@@ -3,7 +3,7 @@
 **NOTE :**\
 Before downloading this file, make sure you create an additional folder with the name "**tugas_akhir**" and then move it.
 
-**Tugas Kelompok :**\
+**Tugas Kelompok :**
 1. FIRLAN PRAYOGA    [20190801120]
 2. MICKO TUBAGAS     [20190801086]
 3. M. Tholhah Mansur [20190801050]
