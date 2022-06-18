@@ -1,12 +1,12 @@
 # Project tugas_akhir App E-Book.id [KELOMPOK PMOB]
 
 **NOTE :**\
-BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
+Before downloading this file, make sure you create an additional folder with the name "**tugas_akhir**" and then move it.
 
-link apk download :\
+Link apk download :\
 https://drive.google.com/file/d/1yhULlFoKhmczGaltga1bp0UxDQzgZ1Eo/view?usp=sharing
 
-## GIF & Screenshoot
+## Screenshoot Output App
 
 ![panganmarketplace](https://user-images.githubusercontent.com/54829600/168479216-53c7447a-772e-42df-9ca5-c7a0e83fcc48.gif)
 ![ss_app_panganmarketplace1](https://user-images.githubusercontent.com/54829600/168479192-0c29a274-e724-4ba0-bfa6-dd70ca720e39.jpg)
