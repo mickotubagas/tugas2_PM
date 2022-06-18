@@ -1,6 +1,6 @@
 # Project tugas_akhir App E-Book.id [KELOMPOK PMOB]
 
-**NOTE** :
+<br **NOTE** : />
 BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
 
 link apk download :
