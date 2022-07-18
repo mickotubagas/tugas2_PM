@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1VDUOPnmcr2m-Gli2xEeev8FatCOJwMsM/view?usp=sharing
 
 ## Video Output App
-https://user-images.githubusercontent.com/54829600/179482628-c35a46f6-3e6e-460e-ae76-d02de048f245.mp4
+https://drive.google.com/file/d/1kCnVV_maSvosEFuaRBw3yiMD-1IfA8ke/view?usp=sharing
 
 ## Screenshoot Output App
 
