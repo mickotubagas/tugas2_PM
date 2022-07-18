@@ -1,16 +1,7 @@
-# Project App E-Book.id [tugas_akhir]
-
-**NOTE :**\
-Before downloading this file, make sure you create an additional folder with the name "**tugas_akhir**" and then move it.
-
-**Tugas Kelompok :**
-1. FIRLAN PRAYOGA    [20190801120]
-2. MICKO TUBAGAS     [20190801086]
-3. M. Tholhah Mansur [20190801050]
-4. Thoriq Nurul F    [20190801054]
+# DATA DOSEN APP - MICKO TUBAGAS 2019081086 [UAS PMOB]
 
 **Link apk download :**\
-https://drive.google.com/file/d/1yhULlFoKhmczGaltga1bp0UxDQzgZ1Eo/view?usp=sharing
+https://drive.google.com/file/d/1VDUOPnmcr2m-Gli2xEeev8FatCOJwMsM/view?usp=sharing
 
 ## Screenshoot Output App
 
